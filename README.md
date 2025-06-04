@@ -19,10 +19,10 @@ Using data storytelling frameworks like the Grammar of Graphics, I selected the 
 
 ## 4. Creating Effective Visuals in Power BI
 I built a four-tab interactive dashboard in Power BI covering:
-• Monthly revenue trends (to detect seasonality for forecasting)
-• Top countries by revenue and quantity sold (for market targeting)
-• Top 10 customers by revenue (supporting retention strategies)
-• Global product demand map (highlighting high-potential expansion regions)
+<br>• Monthly revenue trends (to detect seasonality for forecasting)
+<br>• Top countries by revenue and quantity sold (for market targeting)
+<br>• Top 10 customers by revenue (supporting retention strategies)
+<br>• Global product demand map (highlighting high-potential expansion regions)
 
 ## 5. Communicating Insights to Leadership
 Then, I finally designed and presented a strategic recommendation deck customized for executive leadership.

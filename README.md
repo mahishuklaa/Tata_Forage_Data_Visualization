@@ -30,4 +30,4 @@ Then, I finally designed and presented a strategic recommendation deck customize
 This simulation taught me how to think like a consultant solving real business problems and turn messy data into actionable insights.
 I learned how to use tools like Power BI to support executive-level storytelling and balance business acumen with technical analysis.
 
-You can check out the simulation here: https://lnkd.in/eyvCwNiH
+You can check out the simulation here: https://www.theforage.com/simulations/tata/data-visualisation-p5xo
